@@ -1,6 +1,7 @@
-# SLZB-MR4U Advanced Dashboard Card 🚀
+# SLZB-xxxx Advanced Dashboard Card 🚀
 
-An advanced, dynamic, and all-in-one Home Assistant dashboard card for the **SMLIGHT SLZB-MR4U** (and other SLZB series) Zigbee/Multi-protocol coordinators.
+An advanced, dynamic, and all-in-one Home Assistant dashboard card for the **SMLIGHT SLZB-MRxx** (and other SLZB series) Zigbee/Multi-protocol coordinators.
+Mine is a SLZB-MR4U [link](https://smlight.tech/global/slzbmr4)
 
 
 
@@ -18,11 +19,12 @@ An advanced, dynamic, and all-in-one Home Assistant dashboard card for the **SML
 
 This card relies on several community-made frontend integrations. You must install these via **HACS** first:
 
-1. [Mushroom Cards](https://github.com/piitaya/lovelace-mushroom)
-2. [Mini Graph Card](https://github.com/kalkih/mini-graph-card)
-3. [Stack In Card](https://github.com/custom-cards/stack-in-card)
-4. [Config Template Card](https://github.com/iantrich/config-template-card) (Crucial for dynamic naming)
-5. [Card Mod](https://github.com/thomasloven/lovelace-card-mod) (Recommended)
+1. [SMLIGHT SLZB intégration](https://www.home-assistant.io/integrations/smlight)
+2. [Mushroom Cards](https://github.com/piitaya/lovelace-mushroom)
+3. [Mini Graph Card](https://github.com/kalkih/mini-graph-card)
+4. [Stack In Card](https://github.com/custom-cards/stack-in-card)
+5. [Config Template Card](https://github.com/iantrich/config-template-card) (Crucial for dynamic naming)
+6. [Card Mod](https://github.com/thomasloven/lovelace-card-mod) (Recommended)
 
 ## 🚀 Installation
 
