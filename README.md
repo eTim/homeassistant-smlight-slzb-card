@@ -29,14 +29,14 @@ This card relies on several community-made frontend integrations. You must insta
 1. Ensure your SLZB-MR4U is integrated into Home Assistant (via the official integration or MQTT).
 2. Open your Home Assistant Dashboard.
 3. Add a new **Manual Card**.
-4. Copy the content of [slzb-mr4u-card.yaml](./dashboards/slzb-mr4u-card.yaml) and paste it into the editor.
+4. Copy the content of [slzb-mr4u-card.yaml](./dashboards/slzb-card.yaml) and paste it into the editor.
 5. **Note:** If your device entity prefix is not `sensor.slzb_mr4u_`, use the "Find and Replace" function to match your entity names.
 
 ## 📸 Screenshots
 
 | Monitoring View | Maintenance View |
 |-----------------|------------------|
-| (https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png) | *Add screenshot here* |
+| https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png | *Add screenshot here* |
 
 ## 🤝 Contributing
 
