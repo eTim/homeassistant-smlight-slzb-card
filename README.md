@@ -36,7 +36,7 @@ This card relies on several community-made frontend integrations. You must insta
 
 | Monitoring View | Maintenance View |
 |-----------------|------------------|
-| *Add screenshot here* | *Add screenshot here* |
+| (https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png) | *Add screenshot here* |
 
 ## 🤝 Contributing
 
