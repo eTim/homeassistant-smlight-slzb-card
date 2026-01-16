@@ -36,7 +36,7 @@ Cette carte repose sur plusieurs intégrations de la communauté. Vous devez d'a
 
 | Vue Monitoring | Vue Maintenance |
 |-----------------|------------------|
-| ![vue monitoring](https://raw.githubusercontent.com/eTim/homeassistant-smlight-slzb-card/main/Screenshot.png) | *Bientôt disponible* |
+| ![monitoring view](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png) | *Bientôt disponible* |
 
 ## 🤝 Contribution
 
