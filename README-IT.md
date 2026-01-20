@@ -36,7 +36,7 @@ Questa card si basa su diverse integrazioni della community. È necessario insta
 
 | Vista Monitoraggio | Vista Manutenzione |
 |-----------------|------------------|
-| ![vista monitoraggio](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png)  | *Prossimamente disponibile* |
+| ![vista monitoraggio](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c1c396fef67991bae9b9d54fb66a4c0060d0fdf7/Screenshot.png)  | ![update pending view](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/c989714db1aad393312720a1bae7b95a17d064f8/assets/Screenshot-update-pending.png) |
 
 ## 🤝 Contributo
 
