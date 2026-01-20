@@ -135,7 +135,8 @@ card:
       card:
         type: custom:mushroom-update-card
         entity: update.slzb_mr4u_core_firmware
-        name: MAJ Core
+        name: MAJ Système (Core)
+        layout: horizontal
         show_buttons_control: true
     - type: conditional
       conditions:
@@ -144,8 +145,9 @@ card:
       card:
         type: custom:mushroom-update-card
         entity: update.slzb_mr4u_zigbee_firmware
-        name: MAJ {states['sensor.slzb_mr4u_zigbee_type'].state}
+        name: ${'Chip EFR32 (' + states['sensor.slzb_mr4u_zigbee_type'].state + ')'}
         show_buttons_control: true
+        layout: horizontal
     - type: conditional
       conditions:
         - entity: update.slzb_mr4u_zigbee_firmware_2
@@ -153,8 +155,11 @@ card:
       card:
         type: custom:mushroom-update-card
         entity: update.slzb_mr4u_zigbee_firmware_2
-        name: MAJ {states['sensor.slzb_mr4u_zigbee_type_2'].state}
+        name: >-
+          ${'MAJ Puce CC26 (' + states['sensor.slzb_mr4u_zigbee_type_2'].state +
+          ')'}
         show_buttons_control: true
+        layout: horizontal
     - type: horizontal-stack
       cards:
         - type: custom:mushroom-template-card
