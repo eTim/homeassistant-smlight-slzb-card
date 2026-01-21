@@ -3,7 +3,7 @@
 Une carte Home Assistant avancée, dynamique et tout-en-un pour les coordinateurs Zigbee/Multi-protocoles **SMLIGHT SLZB-MRxx** (et autres séries SLZB).  
 Le modèle utilisé ici est un SLZB-MR4U [lien vers le produit](https://smlight.tech/global/slzbmr4).
 
-| [README in English 🇬🇧]((https://github.com/eTim/homeassistant-smlight-slzb-card/blob/f9bc63c38048b07766204ab705d6a05150fdf3e3/README.md)) | [README in Italiano 🇮🇹](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/main/README-IT.md) |
+| [README in English 🇬🇧]((https://github.com/eTim/homeassistant-smlight-slzb-card/blob/f9bc63c38048b07766204ab705d6a05150fdf3e3/README.md) | [README in Italiano 🇮🇹](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/main/README-IT.md) |
 
 ## ✨ Fonctionnalités
 
