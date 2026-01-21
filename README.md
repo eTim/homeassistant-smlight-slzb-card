@@ -2,7 +2,7 @@
 
 An advanced, dynamic, and all-in-one Home Assistant dashboard card for the **SMLIGHT SLZB-MRxx** (and other SLZB series) Zigbee/Multi-protocol coordinators.
 Mine is a SLZB-MR4U [link](https://smlight.tech/global/slzbmr4)
-
+|[README en Français🇫🇷](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/cef5cd243a8bf94d183da0317b324c10046a7a07/README-FR.md)|[README in Italiano🇮🇹](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/main/README-IT.md)|
 
 
 ## ✨ Features
@@ -43,6 +43,8 @@ This card relies on several community-made frontend integrations. You must insta
 ## 🤝 Contributing
 
 This is my first dashboard project! Feel free to open an **Issue** for bugs or a **Pull Request** if you have ideas for improvements (e.g., adding Power over Ethernet monitoring or more specific Zigbee stats).
+
+Find more about this topics on https://community.home-assistant.io/t/share-advanced-dashboard-card-for-smlight-slzb/975278
 
 ## 📄 License
 
