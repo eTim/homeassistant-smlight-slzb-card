@@ -3,6 +3,8 @@
 Una card per Home Assistant avanzata, dinamica e "tutto-en-uno" per i coordinatori Zigbee/Multi-protocollo **SMLIGHT SLZB-MRxx** (e altre serie SLZB).  
 Il modello utilizzato qui è un SLZB-MR4U [link al prodotto](https://smlight.tech/global/slzbmr4).
 
+| [README in English 🇬🇧](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/f9bc63c38048b07766204ab705d6a05150fdf3e3/README.md) | [README en Français 🇫🇷](https://github.com/eTim/homeassistant-smlight-slzb-card/blob/84287d4d4f87c7912ded95b98af88ca50cd939a1/README-FR.md) |
+
 ## ✨ Funzionalità
 
 - **Intestazione Dinamica:** Visualizzazione in tempo reale della modalità di connessione (Ethernet/Wi-Fi) e dello stato della connettività Internet.
